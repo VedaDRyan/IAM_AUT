@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on Launch button to open Tenant application</description>
+   <name>App_Launcher</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fa9cd10-34a0-4618-afcb-23ee2a1fdfd4</testCaseGuid>
+</TestCaseEntity>

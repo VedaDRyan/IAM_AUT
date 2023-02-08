@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate email field and click on Continue button</description>
+   <name>Email_Validate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bdd3144-9bcf-491d-8b81-f9897812b6e7</testCaseGuid>
+</TestCaseEntity>
